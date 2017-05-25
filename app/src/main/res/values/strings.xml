@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TheSetGame</string>
+    <string name="action_new_game">New game</string>
+
+    <string name="msg_set_found">Set found</string>
+    <string name="msg_set_already_found">Set has been already found</string>
+    <string name="not_a_set">It\'s not a set</string>
+    <string name="game_finished">You have found all sets.\nWould you like to start new game?</string>
+    <string name="action_rules">Rules</string>
+    <string name="game_rules">Game rules</string>
+
+    <string name="rules_content">
+        The player have to find all sets amongst twelve displayed cards.\n
+        Each card has four features: color, shape, quantity and fulfillment.
+        Set consists of three cards which satisfy all of the following conditions:\n
+        * they all have the same number, or they have three different numbers\n
+        * they all have the same symbol, or they have three different symbols\n
+        * they all have the same shading, or they have three different shadings\n
+        * they all have the same color, or they have three different colors
+     </string>
+    <string name="found_sets">Found sets:</string>
+    <string name="card_differences_color">Two cards have the same color but third one has different</string>
+    <string name="card_differences_wuantity">Two cards have the same quantity but third one has different</string>
+    <string name="card_differences_shape">Two cards have the same shape but third one has different</string>
+    <string name="card_differences_fulfillment">Two cards have the same fulfillment but third one has different</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="game_already_finished">You have already found all sets</string>
+
+</resources>
